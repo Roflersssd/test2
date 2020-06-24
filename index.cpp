@@ -2,5 +2,5 @@
 
 int main(){
 	std::cout<<"Hellow, world!"<<std::endl;
-	reutrn 0;
+	return 0;
 }
